@@ -1,0 +1,148 @@
+hyperskill_project:
+  id: 58
+  ide_files: https://stepik.org/media/attachments/lesson/210079/additional_files.json
+  is_template_based: false
+  use_ide: true
+stages:
+- id: 312
+  step: 5454
+- id: 313
+  step: 5455
+- id: 314
+  step: 5456
+- id: 315
+  step: 5457
+- id: 316
+  step: 5458
+topics:
+  0:
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: IDE
+    theory_id: 3805
+  - title: Introduction to Java
+    theory_id: 3500
+  - title: Basic literals
+    theory_id: 3522
+  - title: Overview of the basic program
+    theory_id: 3521
+  - title: Printing data
+    theory_id: 3749
+  - title: Types and variables
+    theory_id: 3518
+  - title: Primitive and reference types
+    theory_id: 5035
+  - title: Array
+    theory_id: 3511
+  - title: Comments
+    theory_id: 3520
+  - title: Naming variables
+    theory_id: 3513
+  - title: Scanning the input
+    theory_id: 9055
+  - title: Arithmetic operations
+    theory_id: 3519
+  - title: Integer types and operations
+    theory_id: 3565
+  - title: Increment and decrement
+    theory_id: 5008
+  - title: Characters
+    theory_id: 3514
+  - title: String
+    theory_id: 3523
+  - title: IntelliJ IDEA
+    theory_id: 3801
+  - title: Write, compile, and run
+    theory_id: 3739
+  - title: Defining classes
+    theory_id: 3618
+  - title: Objects
+    theory_id: 4727
+  - title: Random
+    theory_id: 4910
+  1:
+  - title: Boolean and logical operations
+    theory_id: 3516
+  - title: Relational operators
+    theory_id: 3512
+  - title: Conditional statement
+    theory_id: 3503
+  - title: The for-loop
+    theory_id: 3505
+  - title: The while and do-while loops
+    theory_id: 3498
+  - title: Branching statements
+    theory_id: 3507
+  - title: Iterating over arrays
+    theory_id: 3602
+  - title: Processing strings
+    theory_id: 3551
+  2:
+  - title: Units of information
+    theory_id: 6865
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Binary arithmetic
+    theory_id: 5630
+  - title: Converting from binary to decimal
+    theory_id: 5622
+  - title: Converting from decimal to binary
+    theory_id: 5614
+  - title: 1s Complement
+    theory_id: 5745
+  - title: 2s Complement
+    theory_id: 5753
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Computer programming
+    theory_id: 8739
+  - title: What are streams
+    theory_id: 5533
+  - title: Output streams
+    theory_id: 8837
+  - title: What is an exception
+    theory_id: 3497
+  - title: Hierarchy of exceptions
+    theory_id: 3570
+  - title: Exception handling
+    theory_id: 3552
+  - title: Introduction to operating systems
+    theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and options
+    theory_id: 9746
+  - title: Files
+    theory_id: 3635
+  - title: Reading files
+    theory_id: 3636
+  - title: Writing files
+    theory_id: 3652
+  - title: Input streams
+    theory_id: 9723
+  - title: Sizes and ranges
+    theory_id: 3532
+  - title: Type casting
+    theory_id: 3510
+  - title: Bitwise and bit-shift operations
+    theory_id: 3515
+  - title: Defining methods
+    theory_id: 3590
+  - title: JVM, JRE, and JDK
+    theory_id: 3499
+  - title: Errors in programs
+    theory_id: 3536
+  - title: Package
+    theory_id: 3621
+  - title: Constructor
+    theory_id: 3535
+  - title: Instance methods
+    theory_id: 3495
+  - title: Access modifiers
+    theory_id: 3589
+  - title: Getters and setters
+    theory_id: 3599
+  - title: Inheritance
+    theory_id: 3583
+  - title: Running programs on your computer
+    theory_id: 3746
